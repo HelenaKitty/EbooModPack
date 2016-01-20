@@ -41,6 +41,7 @@ A custom forge-1.6.4-9.11.1.1345 based modpack specially developed to suit the n
 
 ## FAQ
 Q: Why are you using Minecraft 1.6.4
+
 A: I know Minecraft 1.6.4 is very outdated, however most of the mods I have come to like and love work best together on this version on Minecraft, I do however have plans to migrate to Minecraft 1.7.x but that is something in the future!
 
 ## Praise goes out to
