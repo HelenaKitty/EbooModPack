@@ -4,7 +4,7 @@ Death Point: Enable
 Auto Update Check: Disable
 Map Shape: Round
 Texture: Rei Minimap
-Map Position: Lower Left
+Map Position: Upper Left
 Map Scale: Auto
 Map Opacity: Percent100
 Large Map Scale: Auto
