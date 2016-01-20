@@ -7,8 +7,9 @@ A custom forge-1.6.4-9.11.1.1345 based modpack specially developed to suit the n
 * Biomes O' Plenty 1.2.1.434
 * ComputerCraft 1.58
 * DecoCraft 1.10.0
+* JourneyMap 4.0.3
 * OptiFine 1.6.4 HD U D1
-* Rei's Minimap v3.4
+* Rei's Minimap v3.4 (Been replaced with the JourneyMap mod as of 20-01-16 (dd/mm/yy))
 * Advanced Genetics 1.4.3
 * Applied Energistics rv14 finale 3
 * Atomic Science 1.2.0.63
@@ -33,6 +34,7 @@ A custom forge-1.6.4-9.11.1.1345 based modpack specially developed to suit the n
 * Steve's Carts 2.0.0 b10
 * Thermal Expansion 3.0.0.6
 * Traincraft 4.2.1_011
+* Twilight Forest 1.20.4
 * Universal Electricity 3.1.0.66 Core
 ..and much much more to come!
 ```
