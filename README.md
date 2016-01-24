@@ -4,7 +4,7 @@ A custom forge-1.6.4-9.11.1.1345 based modpack specially developed to suit the n
 ![eboo](http://i.imgur.com/hkHgXg0.png)
 
 ## Installed Mods
-In total, this modpack contains 74 mods including:
+In total, this modpack contains 76 mods including:
 * BuildCraft 4.2.2
 * Biomes O' Plenty 1.2.1.434
 * ComputerCraft 1.58
@@ -21,6 +21,9 @@ In total, this modpack contains 74 mods including:
 * CodeChickenCore 0.9.0.9
 * CoFH Core 2.0.0.5
 * Equivalent Exchange 3 0.1.140
+* ExtraCells 1.6.8f
+* Immibis Core 57.2.0
+* Immibis's Microblocks 52.6.4
 * Industral Craft 2 2.0.397
 * Logistics Pipes
 * MineFactory Reloaded 2.7.8-482
