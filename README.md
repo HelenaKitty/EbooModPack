@@ -9,6 +9,7 @@ A custom forge-1.6.4-9.11.1.1345 based modpack specially developed to suit the n
 ![Home Decoration](http://i.imgur.com/XCHm84p.png)
 ![Home Decoration](http://i.imgur.com/tZYfnr1.png)
 ![Home Decoration](http://i.imgur.com/F7RgHKr.png)
+![Home Decoration](http://i.imgur.com/EOWOab0.png)
 
 ## Installed Mods
 In total, this modpack contains 76 mods including:
