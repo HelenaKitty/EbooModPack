@@ -63,7 +63,7 @@ Q: Why are you using Minecraft 1.6.4
 A: I know Minecraft 1.6.4 is very outdated, however most of the mods I have come to like and love seem to be more performant on Minecraft 1.6.4 at this present time, which has prevented me from putting Minecraft 1.7.10 into production. I am however working on porting this modpack to Minecraft 1.7.10 which can be found at http://github.com/HelenaKitty/EbooModPack-1.7.10 !
 
 ## Support
-This modpack was intended the use of friends only and anyone is free to us so do NOT ask me for help on how to mod this modpack, do NOT ask me for help and support with third party mods. Please ask for such support on the Technic Forums at http://forums.technicpack.net/
+This modpack was intended for the use of friends only and anyone is free to use so do NOT ask me for help on how to mod this modpack, do NOT ask me for help and support with third party mods. Please ask for such support on the Technic Forums at http://forums.technicpack.net/ instead. Please post any crash reports on the Technic Forums, this is a stable modpack and there is no reason why it should crash off the shelf.
 
 ## Praise goes out to
 Coming soon!
